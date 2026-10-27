@@ -1,0 +1,28 @@
+AARAV DESHMUKH
+Robotics Mechanical Design Engineer | SOLIDWORKS · ROS 2 · Kinematics · GD&T · AMR
+Pune, Maharashtra | +91 9876543210 | aarav@example.com
+https://linkedin.com/in/aarav-demo | https://github.com/aarav-demo/engineering-portfolio
+
+SUMMARY
+Mechanical engineering graduate with dated internship and competition hardware experience. Mechanisms, mechatronics & autonomous systems.
+
+EDUCATION
+Pune Institute of Technology | B.Tech in Mechanical Engineering | Jun 2026
+CGPA: 8.6 / 10.0
+
+INTERNSHIPS
+Motion Works — Robotics Design Intern | Pune, Maharashtra | Jan 2026 – Jul 2026
+- Designed an Autonomous Mobile Robot (AMR) chassis in SOLIDWORKS with Geometric Dimensioning and Tolerancing (GD&T), reducing chassis mass by 18%.
+- Validated planetary gearbox design and actuator sizing in MATLAB and Simulink using inverse kinematics, reducing actuator torque by 12 Nm.
+- Integrated Robot Operating System (ROS 2) and Unified Robot Description Format (URDF) for a chassis model in Gazebo using Python and C++, reducing simulation cycle time by 25%.
+
+ENGINEERING PROJECTS
+Robocon Team — Mechanism Lead | Pune, Maharashtra | Aug 2025 – Dec 2025
+- Optimized End-of-Arm Tooling (EOAT) in SOLIDWORKS using Finite Element Analysis (FEA), reducing gripper mass by 220 g.
+- Fabricated a sheet metal LiDAR sensor bracket in SOLIDWORKS, achieving a positional tolerance of 0.05 mm.
+
+TECHNICAL SKILLS
+SOLIDWORKS · Robot Operating System (ROS 2) · Kinematics · Geometric Dimensioning and Tolerancing (GD&T) · Autonomous Mobile Robot (AMR)
+
+CERTIFICATIONS
+Engineering design and hardware safety workshop | Feb 2026

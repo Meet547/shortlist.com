@@ -1,0 +1,28 @@
+AARAV DESHMUKH
+Mechanical Design Engineer | SOLIDWORKS · FEA · ANSYS Mechanical · GD&T · CFD
+Pune, Maharashtra | +91 9876543210 | aarav@example.com
+https://linkedin.com/in/aarav-demo | https://github.com/aarav-demo/engineering-portfolio
+
+SUMMARY
+Mechanical engineering graduate with dated internship and competition hardware experience. Propulsion, structures & flight hardware.
+
+EDUCATION
+Pune Institute of Technology | B.Tech in Mechanical Engineering | Jun 2026
+CGPA: 8.6 / 10.0
+
+INTERNSHIPS
+Orbital Works — Mechanical Design Intern | Bengaluru, Karnataka | Jan 2026 – Jul 2026
+- Designed cryogenic feed systems in SOLIDWORKS with Geometric Dimensioning and Tolerancing (GD&T), reducing valve assembly mass by 18%.
+- Validated a propulsion systems bracket using Finite Element Analysis (FEA) in ANSYS Mechanical, achieving a Factor of Safety (FOS) of 1.85 under 4g load.
+- Simulated regenerative cooling nozzle channels using Computational Fluid Dynamics (CFD) in ANSYS Fluent, reducing pressure drop by 14 kPa.
+
+ENGINEERING PROJECTS
+Formula Student Team — Structures Lead | Pune, Maharashtra | Aug 2025 – Dec 2025
+- Optimized a Carbon Fiber Reinforced Polymer (CFRP) monocoque in SOLIDWORKS using Design for Manufacturability (DFM), reducing frame mass by 4.2 kg.
+- Fabricated a propulsion systems test fixture in SOLIDWORKS, achieving a machining tolerance of 0.05 mm.
+
+TECHNICAL SKILLS
+SOLIDWORKS · Finite Element Analysis (FEA) · ANSYS Mechanical · Geometric Dimensioning and Tolerancing (GD&T) · Computational Fluid Dynamics (CFD)
+
+CERTIFICATIONS
+Engineering design and hardware safety workshop | Feb 2026

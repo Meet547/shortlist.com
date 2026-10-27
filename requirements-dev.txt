@@ -1,0 +1,2 @@
+# Optional: regenerate the fictional PDF/DOCX fixtures.
+reportlab==4.4.9

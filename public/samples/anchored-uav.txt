@@ -1,0 +1,28 @@
+AARAV DESHMUKH
+UAV Airframe & Composites Intern | SOLIDWORKS · CFRP · FEA · PX4 · UAV Airframe Design
+Pune, Maharashtra | +91 9876543210 | aarav@example.com
+https://linkedin.com/in/aarav-demo | https://github.com/aarav-demo/engineering-portfolio
+
+SUMMARY
+Mechanical engineering graduate with dated internship and competition hardware experience. Airframes, composites & flight systems.
+
+EDUCATION
+Pune Institute of Technology | B.Tech in Mechanical Engineering | Jun 2026
+CGPA: 8.6 / 10.0
+
+INTERNSHIPS
+Aero Works — UAV Airframe Intern | Bengaluru, Karnataka | Jan 2026 – Jul 2026
+- Designed a UAV airframe in SOLIDWORKS with Carbon Fiber Reinforced Polymer (CFRP) composite layup and vacuum bagging, reducing airframe mass by 18%.
+- Validated landing gear impact using Finite Element Analysis (FEA) in ANSYS Mechanical, achieving a Factor of Safety (FOS) of 1.9 under 4g load.
+- Integrated a PX4 and ArduPilot Pixhawk controller using MAVLink into a Vertical Take-Off and Landing (VTOL) airframe, increasing flight endurance by 12%.
+
+ENGINEERING PROJECTS
+Flight Competition Team — Airframe Lead | Pune, Maharashtra | Aug 2025 – Dec 2025
+- Optimized a Brushless DC Motor (BLDC) propeller assembly with ANSYS Fluent and XFLR5, increasing thrust-to-weight by 15%.
+- Fabricated a landing gear fixture in SOLIDWORKS and documented DGCA type certification test evidence, achieving 0.1 mm tolerance.
+
+TECHNICAL SKILLS
+SOLIDWORKS · Carbon Fiber Reinforced Polymer (CFRP) · Finite Element Analysis (FEA) · PX4 · UAV Airframe Design
+
+CERTIFICATIONS
+Engineering design and hardware safety workshop | Feb 2026

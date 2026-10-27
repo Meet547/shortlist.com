@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Shortlist — resume review for everyone</title>
+  <desc id="desc">A minimal white banner showing the three steps: add your resume and role, inspect the evidence, improve and export.</desc>
+  <rect x="1" y="1" width="1198" height="318" rx="10" fill="#fff" stroke="#e1e1e1"/>
+  <g fill="#171717" font-family="Helvetica, Arial, sans-serif">
+    <text x="54" y="105" font-size="76" font-weight="700" letter-spacing="-5">shortlist.</text>
+    <text x="56" y="147" font-size="20" fill="#606060">resume review for everyone</text>
+    <text x="1142" y="88" font-size="13" text-anchor="end" fill="#606060">LOCAL PROCESSING · EXPLAINED CHECKS</text>
+    <line x1="55" x2="1145" y1="194" y2="194" stroke="#e1e1e1"/>
+    <text x="56" y="244" font-size="12" fill="#737373">01</text>
+    <text x="91" y="245" font-size="18">Resume &amp; role</text>
+    <path d="M338 239h36m-7-6 7 6-7 6" fill="none" stroke="#999" stroke-width="1.5"/>
+    <text x="434" y="244" font-size="12" fill="#737373">02</text>
+    <text x="469" y="245" font-size="18">Inspect the evidence</text>
+    <path d="M763 239h36m-7-6 7 6-7 6" fill="none" stroke="#999" stroke-width="1.5"/>
+    <text x="856" y="244" font-size="12" fill="#737373">03</text>
+    <text x="891" y="245" font-size="18">Improve &amp; export</text>
+  </g>
+</svg>

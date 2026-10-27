@@ -1,0 +1,28 @@
+AARAV DESHMUKH
+Battery Packaging & Thermal Design Engineer | SOLIDWORKS · BTMS · CFD · GD&T · DFMEA
+Pune, Maharashtra | +91 9876543210 | aarav@example.com
+https://linkedin.com/in/aarav-demo | https://github.com/aarav-demo/engineering-portfolio
+
+SUMMARY
+Mechanical engineering graduate with dated internship and competition hardware experience. Battery systems, vehicle design & performance.
+
+EDUCATION
+Pune Institute of Technology | B.Tech in Mechanical Engineering | Jun 2026
+CGPA: 8.6 / 10.0
+
+INTERNSHIPS
+Volt Works — Battery Design Intern | Pune, Maharashtra | Jan 2026 – Jul 2026
+- Designed battery pack packaging in SOLIDWORKS with Geometric Dimensioning and Tolerancing (GD&T), reducing enclosure mass by 18%.
+- Simulated a Battery Thermal Management System (BTMS) cold plate using Computational Fluid Dynamics (CFD) in ANSYS Fluent, reducing peak cell temperature by 8 K.
+- Validated a Battery Management System (BMS) enclosure in SOLIDWORKS using Design Failure Mode and Effects Analysis (DFMEA), achieving IP67 ingress protection under 1 m submersion.
+
+ENGINEERING PROJECTS
+Formula Bharat Team — Thermal Lead | Pune, Maharashtra | Aug 2025 – Dec 2025
+- Optimized battery pack cooling in MATLAB and Simulink, reducing cell temperature variation by 4 K.
+- Fabricated a battery pack bracket in SOLIDWORKS and documented Advanced Product Quality Planning (APQP), Production Part Approval Process (PPAP), and AIS-156 checks, reducing mass by 12%.
+
+TECHNICAL SKILLS
+SOLIDWORKS · Battery Thermal Management System (BTMS) · Computational Fluid Dynamics (CFD) · Geometric Dimensioning and Tolerancing (GD&T) · Design Failure Mode and Effects Analysis (DFMEA)
+
+CERTIFICATIONS
+Engineering design and hardware safety workshop | Feb 2026

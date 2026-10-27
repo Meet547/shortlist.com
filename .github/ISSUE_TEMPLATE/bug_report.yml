@@ -1,0 +1,30 @@
+name: Bug report
+description: Report a reproducible problem using fictional or anonymized input.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: Please remove personal resume data. For sensitive security issues, read SECURITY.md first.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include the expected and actual behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: How can we reproduce it?
+      description: Include the step, tab, selected scenario and a fictional text example if relevant.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and operating system
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Safe screenshots or error messages
+      description: Remove contact information, private URLs and document contents.
